@@ -1,0 +1,28 @@
+_repo: Observations-on-the-Effects-of-the-Corn-Laws-and-of-a-Rise-or-Fall-in-the-Price-of-Corn-on-the__4334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malthus, T. R. (Thomas Robert)
+    alias: Malthus, Thomas Robert
+    birthdate: 1766
+    deathdate: 1834
+    gutenberg_agent_id: '1411'
+    url: http://www.gutenberg.org/2009/agents/1411
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Malthus
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grain trade -- Great Britain'
+- !lcsh 'Corn laws (Great Britain)'
+- !lcc 'HF'
+- GITenberg
+title: Observations on the Effects of the Corn Laws, and of a Rise or Fall in the
+  Price of Corn on the Agriculture and General Wealth of the Country
+url: http://www.gutenberg.org/ebooks/4334
